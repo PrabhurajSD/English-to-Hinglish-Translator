@@ -37,21 +37,27 @@ including content localization, communication with bilingual audiences, and more
 Examples:
 
 Input: "I am going to the park."
+
 Output: "मैं park जा रहा हूँ।"
 
 Input: "She is reading a book."
+
 Output: "वह एक book पढ़ रही है।"
 
 Input: "Definitely share your feedback in the comment section."
+
 Output: "Definitely comment section में अपनी feedback share करें।"
 
 Input: "The scientific community is excited about the breakthrough discovery."
+
 Output: "Scientific community breakthrough discovery के लिए excited है।"
 
 Input: "The traffic is terrible during rush hour."
+
 Output: "traffic office hour में बहुत खराब होता है।"
 
 Input: "The art exhibition featured avant-garde pieces from around the world."
+
 Output: "Art exhibition में दुनिया भर से avant-grade कलाकृतियाँ featured की गईं।"
 
 Project Extension:
