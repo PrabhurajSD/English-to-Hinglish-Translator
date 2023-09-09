@@ -10,6 +10,11 @@ Sample Input-Output:
    Output: “ मैं अपने bag के लिए इंतज़ार कर रहा था।”
 
 
+
+[NOTE: OpenAI's API only processes 3 requests per minute, so it may throw an error in case  the limit is exceeded. 
+Also model may start to give accurate output after 2-3 turns (reasons are explained below)]
+
+
 (The variability in the code's output for the same sentence can be attributed to the probabilistic nature of the language model and the inherent
 diversity of possible translations. Below are some compelling reasons to explain why the code generates different answers for the same sentence every time:
 1. Language Model Uncertainty: The code utilizes a sophisticated language model(OpenAI's GPT-3.5 Turbo)  which employs a probabilistic approach to generate responses. 
