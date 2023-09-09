@@ -8,6 +8,7 @@ Steps to Run the Model:
   4) run the code
 
 Evaluating Model Performance:
+
 Evaluating the performance of a language translation model like the one using OpenAI's GPT-3.5 Turbo can be challenging 
 since it's a pretrained model that generates responses based on a vast amount of data. However, you can assess its performance in the following ways:
 1) Manually review the translated sentences. Ensure that the translation sounds natural, maintains the meaning, and retains the original sentence's tone.
