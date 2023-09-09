@@ -1,6 +1,7 @@
 # English-to-Hinglish-Translator
 Steps to Run the Model:
-  1) Obtain your OpenAI API key and store it securely.
+  1) Obtain your OpenAI API key and store it securely.(LINK: https://openai.com/blog/openai-api)
+     
      [NOTE: OpenAI's API only processes 3 requests per minute, so it may throw an error in case the limit is exceeded. Also, it throws the error if the account using which
      you are obtaining key is more than 3 Months old]
   3) Create a file named "Secret_Key.py" and store your API key as follows:
