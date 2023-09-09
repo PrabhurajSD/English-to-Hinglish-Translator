@@ -1,11 +1,13 @@
 # English-to-Hinglish-Translator
 Steps to Run the Model:
   1) Obtain your OpenAI API key and store it securely.
-  2) Create a file named "Secret_Key.py" and store your API key as follows:
+     [NOTE: OpenAI's API only processes 3 requests per minute, so it may throw an error in case the limit is exceeded. Also, it throws the error if the account using which
+     you are obtaining key is more than 3 Months old]
+  3) Create a file named "Secret_Key.py" and store your API key as follows:
      python code:
      openai_key = "your-api-key-here"
-  3) copy the code of translator.py in any Python compiler (e.g. - Jupyter Notebook, pyCharm, etc)
-  4) Run the code
+  4) copy the code of translator.py in any Python compiler (e.g. - Jupyter Notebook, pyCharm, etc)
+  5) Run the code
 
 Evaluating Model Performance:
 
